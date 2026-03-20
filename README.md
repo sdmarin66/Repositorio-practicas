@@ -1,4 +1,4 @@
-# Sergio - GitHub SMR 🐍
+# Sergio Durán Marín - GitHub SMR 🐍
 
 Repositorio personal creado para las prácticas del ciclo formativo de **Sistemas Microinformáticos y Redes (SMR)**.
 
